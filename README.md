@@ -1,4 +1,4 @@
 # viksdemo
 this is my git repository
 <br> <br>
-Author- vikas rathod
+Author- vikas (viks)
